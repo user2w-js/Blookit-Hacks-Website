@@ -1,7 +1,7 @@
 # Blookit-Hacks-Website
 Credits to lol-jude
 
-PROJECT HAS BEEN MOVED TO [user2wprojects.ml](https://user2wprojects.ml/)
+PROJECT HAS BEEN MOVED TO [user2w.ml](https://user2w.ml/)
 
 
 
