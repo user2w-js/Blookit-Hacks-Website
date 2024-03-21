@@ -1,20 +1,7 @@
 # Blookit-Hacks-Website
-Credits to lol-jude
 
-PROJECT HAS BEEN MOVED TO [user2w.ml](https://user2w.ml/)
-
-
-
-
-
-
-
-
-
-
-
-
-
+# THIS HAS BEEN ARCHIVED!!
+I will no longer maintain this
 
 
 
